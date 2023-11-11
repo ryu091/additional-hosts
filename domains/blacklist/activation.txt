@@ -1,456 +1,700 @@
-# Adobe
-3dns.adobe.com
-3dns-1.adobe.com
-3dns-2.adobe.com
-3dns-3.adobe.com
-3dns-4.adobe.com
-3dns-5.adobe.com
-t3dns.adobe.com
-3dns*.adobe.com
-adobe-dns-1.adobe.com
-adobe-dns-2.adobe.com
-adobe-dns-3.adobe.com
-adobe-dns-4.adobe.com
-adobe-dns-1.adobe.de
-adobe-dns-2.adobe.de
-adobe-dns-3.adobe.de
-adobe-dns-4.adobe.de
-adobe-dns.adobe.de
-adobe-dns.adobe.com
-adobe.activate.com
-adobeereg.com
-www.adobeereg.com
-ereg.wip.adobe.com
-ereg.wip1.adobe.com
-ereg.wip2.adobe.com
-ereg.wip4.adobe.com
-activate.wip.adobe.com
-activate.wip1.adobe.com
-activate.wip2.adobe.com
-activate.wip4.adobe.com
-lmlicenses.wip1.adobe.com
-lmlicenses.wip2.adobe.com
-lmlicenses.wip3.adobe.com
-hl2rcv.adobe.com
-hlrcv.stage.adobe.com
-lm.licenses.adobe.com
-lmlicenses.wip4.adobe.com
-na1r.services.adobe.com
-na2m-pr.licenses.adobe.com
-practivate.adobe
-practivate.adobe.ipp
-practivate.adobe.ntp
-tpractivate.adobe.newoa
-ood.opsource.net
-209-34-83-73.ood.opsource.net
-adobe.tt.omtrdc.net
-#wip.adobe.com   # The following are disabled as they may interfere
-#wip1.adobe.com  # when visiting the adobe.com website
-#wip2.adobe.com
-#wip3.adobe.com
-#wip4.adobe.com
-activate.adobe.com
-practivate.adobe.com
-ereg.adobe.com
-activate.wip3.adobe.com
-ereg.wip3.adobe.com
-activate-sea.adobe.com
-activate-sea.adobe.de
-activate-sjc0.adobe.com
-activate-sjc0.adobe.de
-activate.adobe.de
-activate.wip3.adobe.de
-cmdls.adobe.com
-#crl.verisign.net
-ereg.adobe.de
-genuine.adobe.com
-hl2rcv.adobe.de
-ims-na1-prprod.adobelogin.com
-na2m-stg2.licenses.adobe.com
-na4r.services.adobe.com
-ocsp.spo1.verisign.com
-practivate.adobe.de
-practivate.adobe.newoa
-prod-rel-ffc-ccm.oobesaas.adobe.com
-s-2.adobe.com
-s-3.adobe.com
-tss-geotrust-crl.thawte.com
-uds.licenses.adobe.com
-
-# Adobe wildcard
-wwis-dubc1-vip60.adobe.com
-wwis-dubc1-vip*.adobe.com
-wwis-dubc1-vip*.adobe.de
-wwis-dubc1-vip*
-practivate.adobe.*
-
-# Autodesk
-autodesk.fi 
-autodesk.de
-autodesk.es
-autodesk.ca
-autodesk.dk
-autodesk.pl
-ns1.autodesk.com
-ns2.autodesk.com
-ns3.autodesk.com
-ns4.autodesk.com
-ns5.autodesk.com
-126114-app1.autodesk.com
-94175-app1.autodesk.com
-94184-app2.autodesk.com
-96579-lbal1.autodesk.com
-acamp.autodesk.com
-adeskdi3.autodesk.com
-adeskdmzpdc.autodesk.com
-adeskgate.autodesk.com
-adesknews2.autodesk.com
-adeskout.autodesk.com
-adsknateur.autodesk.com
-amernetlog.autodesk.com
-app5.autodesk.com
-aprimo-relay1.autodesk.com
-aprimo-relay2.autodesk.com
-aprimo-relay3.autodesk.com
-aprimo-relay4.autodesk.com
-autosketch.autodesk.com
-blues.autodesk.com
-cbuanprd.autodesk.com
-cbuanprhcllb.autodesk.com
-cbuanqa2lb.autodesk.com
-ci3dwsdev-svc.autodesk.com
-ci3dwsprd-svc.autodesk.com
-ci3dwsstg-svc.autodesk.com
-community.autodesk.com
-cut.autodesk.com
-cvsprd01.autodesk.com
-discussion.autodesk.com
-eur.autodesk.com
-extcidev.autodesk.com
-extciqa.autodesk.com
-extupg.autodesk.com
-ftp-users.autodesk.com
-ftp2b.autodesk.com
-gisdmzpdc.autodesk.com
-hqaribasrf04.autodesk.com
-hqmgwww01.autodesk.com
-hqmgwww04.autodesk.com
-hqmobileweb01.autodesk.com
-hqprxsrftrn.autodesk.com
-hqpsweb01.autodesk.com
-hubdev-svc.autodesk.com
-hubprd-svc.autodesk.com
-hubstg-svc.autodesk.com
-itappprd01-svc.autodesk.com
-itappprd02-svc.autodesk.com
-its.autodesk.com
-jdevextv-new.autodesk.com
-jp.autodesk.com
-jstgextv-new.autodesk.com
-jstgintv-new.autodesk.com
-lbsvzw.autodesk.com
-lbsvzw1.autodesk.com
-lbsvzw2.autodesk.com
-library.autodesk.com
-liveupdate.autodesk.com
-locationservices.autodesk.com
-lsctsol04.autodesk.com
-mail-relay.autodesk.com
-mneprdext-svc.autodesk.com
-mut.autodesk.com
-nbugma-dmz.autodesk.com
-nut.autodesk.com
-otw-new.autodesk.com
-otwdownloads.autodesk.com
-partnercenter.autodesk.com
-partnerproducts.autodesk.com
-paste.autodesk.com
-pedidrq.autodesk.com
-pediqrx.autodesk.com
-petars1.autodesk.com
-petcp11ia-2nat.autodesk.com
-petcr12ihsrp2.autodesk.com
-phxgciv.autodesk.com
-phxgciv_dr.autodesk.com
-planix3d.autodesk.com
-pointa.autodesk.com
-register.autodesk.com
-registerallied-pr.autodesk.com
-registeronce.autodesk.com
-salestraining.autodesk.com
-searchnews.autodesk.com
-shop.autodesk.com
-spamster-bulk.autodesk.com
-sswwwp.autodesk.com
-trialdownload.autodesk.com
-usa.autodesk.com
-uspetcr12ie_198.autodesk.com
-uspetcr12if.autodesk.com
-uspetcr12if_198.autodesk.com
-uspetcrs12ia_ib_vlan500_2_hsrp.autodesk.com
-uspetcrs12ia_vlan500_2.autodesk.com
-uspetcrs12ib_vlan500_2.autodesk.com
-uspetne06ia_ib_untrust_dip7.autodesk.com
-usrelay.autodesk.com
-ussclout1.autodesk.com
-vzwlpsrel.autodesk.com
-vzwlpstst.autodesk.com
-web.autodesk.com
-webservices.autodesk.com
-wormhole.autodesk.com
-www3.autodesk.com
-#www.autodesk.com
-#autodesk.com
-
-# ACDSee
-acdid.acdsystems.com
-
-# Acronis
-activation.acronis.com
-web-api-tih.acronis.com
-web-api-tie.acronis.com
-web-api-vmp.acronis.com
-cloud-rs-us2-acronis.com
-cloud-fes-us2-acronis.com
-rpc.acronis.com
-
-# Ashampoo
-licenses.ashampoo.com
-
-# Alcohol
-serial.alcohol-soft.com
-trial.alcohol-soft.com
-
-# Avast
-ns2.avast.com
-pns.avast.com
-#avast.com
-
-# Bandicam
-#ssl.bandisoft.com
-#cert.bandicam.com
-#bandicam.com
-
-# BartelsMedia ShareMouse
-bartelsmedia.com
-www.bartelsmedia.com
-
-# BitSum and Process Lasso
-activate.bitsum.com
-bitsumactivationserver.com
-www.bitsumactivationserver.com
-
-# BlueSoleil
-license.bluesoleil.com
-license2.bluesoleil.com
-license3.bluesoleil.com
-#www.bluesoleil.com
-#bluesoleil.com
-
-# Capture One
-activation.phaseone.com
-
-# Corel
-apps.corel.com
-product.corel.com
-mc.corel.com
-origin-mc.corel.com
-iws.corel.com
-ipm.corel.com
-sws.corel.com
-dam.corel.com
-deploy.akamaitechnologies.com
-compute-1.amazonaws.com
-dev1.ipm.corel.public.corel.net
-
-# Connectify Hotspot
-activate.connectify.me
-updates.connectify.me
-d.connectify.me
-d1.connectify.me
-d2.connectify.me
-d3.connectify.me
-b.connectify.me
-bc.connectify.me
-data.connectify.me
-news.connectify.me
-
-# ChrisPC
-#chris-pc.com
-
-# Cyberlink
-activation.cyberlink.com
-cap.cyberlink.com
-
-# DAEMON Tools
-secure.disc-soft.com
-
-# CuteFTP
-dbregistration.cuteftp.com
-
-# EaseUS
-activation.easeus.com
-track.easeus.com
-
-# Eltima
-activate.eltima.com
-
-# Folder Lock
-password-protect-folders.net
-
-# Deep Freeze
-upd.faronicslabs.com
-
-# HDD Regenerator
-dposoft.net
-
-# HotSpot Shield
-#anchorfree.net
-#anchorfree.us
-#rss2search.com
-#delivery.anchorfree.us
-techbrowsing.com
-box.anchorfree.net
-#mefeedia.com
-a433.com
-#hsselite.com
-
-# Internet Download Manager
-internetdownloadmanager.com
-mirror.internetdownloadmanager.com
-mirror2.internetdownloadmanager.com
-mirror3.internetdownloadmanager.com
-registeridm.com
-secure.internetdownloadmanager.com
-secure.registeridm.com
-star.tonec.com
-tonec.com
-www.internetdownloadmanager.com
-www.mirror.internetdownloadmanager.com
-www.mirror2.internetdownloadmanager.com
-www.mirror3.internetdownloadmanager.com
-www.registeridm.com
-www.secure.internetdownloadmanager.com
-www.tonec.com
-
-# IObit
-asc55.iobit.com
-idb.iobit.com
-is360.iobit.com
-asc.iobit.com
-pf.iobit.com
-iunins.iobit.com
-sd.iobit.com
-#iobit.com
-
-# IsoBuster
-isobuster.net
-cdrecovery.net
-isobuster.com
-smart-projects.net
-pvh.smart-projects.biz
-
-# iSkysoft
-cbs.iskysoft.com
-
-# JetBrains IDE
-#jetbrains.com
-#www.jetbrains.com
-#www-weighted.jetbrains.com
-#account.jetbrains.com
-
-# Lumion3D
-backup.lumion3d.com
-backup.lumion3d.net
-license.lumion3d.com
-license.lumion3d.net
-activate.lumion.net
-license.lumiontech.net
-
-# MacDrive
-act2.mediafour.com
-
-# MalwareBytes
-sirius.mwbsys.com
-keystone.mwbsys.com
-data.service.malwarebytes.org
-telemetry.malwarebytes.com
-skipittok.com
-
-# MiniTool Partition Wizard
-pas2.partitionwizard.com
-pas2.minitool.com
-pas2.eofsoft.com
-tracking.minitool.com
-#partitionwizard.com
-#www.partitionwizard.com
-
-# Newsoftwares USB Block
-newsoftwares.net
-
-# Nikon CaptureNX
-sams.nikonimaging.com
-
-# NCH Software 
-secure.nch.com.au
-
-# Piriform
-license.piriform.com
-secure.piriform.com
-ccleaner.com
-www.ccleaner.com
-
-# Red Gate (e.g. .NET Reflector)
-licensing.red-gate.com
-
-# Reallusion
-widgetcast.reallusion.com
-da.reallusion.com
-ctifiles2.reallusion.com
-
-# Rhinoceros 3D 
-api.mcneel.com
-
-# SmartAssembly
-sawebservice.red-gate.com
-
-# Systweak
-updateservice1.systweak.com
-systemspeedup.systweak.com
-#systweak.com
-
-# Sublime Text
-license.sublimehq.com
-
-# SUPERAntiSpyware
-license.superantispyware.com
-#superantispyware.com
-
-# Tableau Desktop
-licensing.tableausoftware.com
-
-# TeamSpeak
-accounting.teamspeak.com
-backupaccounting.teamspeak.com
-ipcheck.teamspeak.com
-
-# TotalFinder
-binaryage-leechgate.herokuapp.com
-updates-s3.binaryage.com
-
-# TechSmith Camtasia Studio
-activation.cloud.techsmith.com
-oscount.techsmith.com
-updater.techsmith.com
-camtasiatudi.techsmith.com
-tsccloud.cloudapp.net
-assets.cloud.techsmith.com
-#techsmith.com
-
-# VideoMakerFX
-auth7.videomakerfx.com
-
-# Wondershare
-cbs.wondershare.com
-platform.wondershare.com
-macplatform.wondershare.com
+ # Adobe
+127.0.0.1 192.150.14.69
+127.0.0.1 192.150.18.101
+127.0.0.1 192.150.18.108
+127.0.0.1 192.150.22.40
+127.0.0.1 192.150.8.100
+127.0.0.1 192.150.8.118
+127.0.0.1 199.7.52.190
+127.0.0.1 199.7.52.190:80
+127.0.0.1 199.7.54.72
+127.0.0.1 199.7.54.72:80
+127.0.0.1 209-34-83-73.ood.opsource.net
+127.0.0.1 209.34.83.67
+127.0.0.1 209.34.83.67:43
+127.0.0.1 209.34.83.67:443
+127.0.0.1 209.34.83.73
+127.0.0.1 209.34.83.73:43
+127.0.0.1 209.34.83.73:443
+127.0.0.1 3dns-1.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 3dns-5.adobe.com
+127.0.0.1 3dns.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 activate-sea.adobe.de
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 activate-sjc0.adobe.de
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate.adobe.de
+127.0.0.1 activate.wip.adobe.com
+127.0.0.1 activate.wip1.adobe.com
+127.0.0.1 activate.wip2.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate.wip3.adobe.de
+127.0.0.1 activate.wip4.adobe.com
+127.0.0.1 adobe-dns-1.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-2.adobe.de
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe-dns-3.adobe.de
+127.0.0.1 adobe-dns-4.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns.adobe.de
+127.0.0.1 adobe.activate.com
+127.0.0.1 adobeereg.com
+127.0.0.1 cmdls.adobe.com
+127.0.0.1 crl.verisign.net
+127.0.0.1 crl.verisign.net.
+127.0.0.1 ereg.adobe.com
+127.0.0.1 ereg.adobe.de
+127.0.0.1 ereg.wip.adobe.com
+127.0.0.1 ereg.wip1.adobe.com
+127.0.0.1 ereg.wip2.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 ereg.wip4.adobe.com
+127.0.0.1 genuine.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 hl2rcv.adobe.de
+127.0.0.1 ims-na1-prprod.adobelogin.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 na2m-stg2.licenses.adobe.com
+127.0.0.1 na4r.services.adobe.com
+127.0.0.1 ocsp.spo1.verisign.com
+127.0.0.1 ood.opsource.net
+127.0.0.1 practivate.adobe
+127.0.0.1 practivate.adobe.
+127.0.0.1 practivate.adobe.com
+127.0.0.1 practivate.adobe.de
+127.0.0.1 practivate.adobe.ipp
+127.0.0.1 practivate.adobe.newoa
+127.0.0.1 practivate.adobe.ntp
+127.0.0.1 prod-rel-ffc-ccm.oobesaas.adobe.com
+127.0.0.1 s-2.adobe.com
+127.0.0.1 s-3.adobe.com
+127.0.0.1 tss-geotrust-crl.thawte.com
+127.0.0.1 uds.licenses.adobe.com
+127.0.0.1 wip.adobe.com
+127.0.0.1 wip1.adobe.com
+127.0.0.1 wip2.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 wip4.adobe.com
+127.0.0.1 wwis-dubc1-vip100.adobe.com
+127.0.0.1 wwis-dubc1-vip101.adobe.com
+127.0.0.1 wwis-dubc1-vip102.adobe.com
+127.0.0.1 wwis-dubc1-vip103.adobe.com
+127.0.0.1 wwis-dubc1-vip104.adobe.com
+127.0.0.1 wwis-dubc1-vip105.adobe.com
+127.0.0.1 wwis-dubc1-vip106.adobe.com
+127.0.0.1 wwis-dubc1-vip107.adobe.com
+127.0.0.1 wwis-dubc1-vip108.adobe.com
+127.0.0.1 wwis-dubc1-vip109.adobe.com
+127.0.0.1 wwis-dubc1-vip110.adobe.com
+127.0.0.1 wwis-dubc1-vip111.adobe.com
+127.0.0.1 wwis-dubc1-vip112.adobe.com
+127.0.0.1 wwis-dubc1-vip113.adobe.com
+127.0.0.1 wwis-dubc1-vip114.adobe.com
+127.0.0.1 wwis-dubc1-vip115.adobe.com
+127.0.0.1 wwis-dubc1-vip116.adobe.com
+127.0.0.1 wwis-dubc1-vip117.adobe.com
+127.0.0.1 wwis-dubc1-vip118.adobe.com
+127.0.0.1 wwis-dubc1-vip119.adobe.com
+127.0.0.1 wwis-dubc1-vip120.adobe.com
+127.0.0.1 wwis-dubc1-vip121.adobe.com
+127.0.0.1 wwis-dubc1-vip122.adobe.com
+127.0.0.1 wwis-dubc1-vip123.adobe.com
+127.0.0.1 wwis-dubc1-vip124.adobe.com
+127.0.0.1 wwis-dubc1-vip125.adobe.com
+127.0.0.1 wwis-dubc1-vip30.adobe.com
+127.0.0.1 wwis-dubc1-vip31.adobe.com
+127.0.0.1 wwis-dubc1-vip32.adobe.com
+127.0.0.1 wwis-dubc1-vip33.adobe.com
+127.0.0.1 wwis-dubc1-vip34.adobe.com
+127.0.0.1 wwis-dubc1-vip35.adobe.com
+127.0.0.1 wwis-dubc1-vip36.adobe.com
+127.0.0.1 wwis-dubc1-vip37.adobe.com
+127.0.0.1 wwis-dubc1-vip38.adobe.com
+127.0.0.1 wwis-dubc1-vip39.adobe.com
+127.0.0.1 wwis-dubc1-vip40.adobe.com
+127.0.0.1 wwis-dubc1-vip41.adobe.com
+127.0.0.1 wwis-dubc1-vip42.adobe.com
+127.0.0.1 wwis-dubc1-vip43.adobe.com
+127.0.0.1 wwis-dubc1-vip44.adobe.com
+127.0.0.1 wwis-dubc1-vip45.adobe.com
+127.0.0.1 wwis-dubc1-vip46.adobe.com
+127.0.0.1 wwis-dubc1-vip47.adobe.com
+127.0.0.1 wwis-dubc1-vip48.adobe.com
+127.0.0.1 wwis-dubc1-vip49.adobe.com
+127.0.0.1 wwis-dubc1-vip50.adobe.com
+127.0.0.1 wwis-dubc1-vip51.adobe.com
+127.0.0.1 wwis-dubc1-vip52.adobe.com
+127.0.0.1 wwis-dubc1-vip53.adobe.com
+127.0.0.1 wwis-dubc1-vip54.adobe.com
+127.0.0.1 wwis-dubc1-vip55.adobe.com
+127.0.0.1 wwis-dubc1-vip56.adobe.com
+127.0.0.1 wwis-dubc1-vip57.adobe.com
+127.0.0.1 wwis-dubc1-vip58.adobe.com
+127.0.0.1 wwis-dubc1-vip59.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.de
+127.0.0.1 wwis-dubc1-vip61.adobe.com
+127.0.0.1 wwis-dubc1-vip62.adobe.com
+127.0.0.1 wwis-dubc1-vip63.adobe.com
+127.0.0.1 wwis-dubc1-vip64.adobe.com
+127.0.0.1 wwis-dubc1-vip65.adobe.com
+127.0.0.1 wwis-dubc1-vip66.adobe.com
+127.0.0.1 wwis-dubc1-vip67.adobe.com
+127.0.0.1 wwis-dubc1-vip68.adobe.com
+127.0.0.1 wwis-dubc1-vip69.adobe.com
+127.0.0.1 wwis-dubc1-vip70.adobe.com
+127.0.0.1 wwis-dubc1-vip71.adobe.com
+127.0.0.1 wwis-dubc1-vip72.adobe.com
+127.0.0.1 wwis-dubc1-vip73.adobe.com
+127.0.0.1 wwis-dubc1-vip74.adobe.com
+127.0.0.1 wwis-dubc1-vip75.adobe.com
+127.0.0.1 wwis-dubc1-vip76.adobe.com
+127.0.0.1 wwis-dubc1-vip77.adobe.com
+127.0.0.1 wwis-dubc1-vip78.adobe.com
+127.0.0.1 wwis-dubc1-vip79.adobe.com
+127.0.0.1 wwis-dubc1-vip80.adobe.com
+127.0.0.1 wwis-dubc1-vip81.adobe.com
+127.0.0.1 wwis-dubc1-vip82.adobe.com
+127.0.0.1 wwis-dubc1-vip83.adobe.com
+127.0.0.1 wwis-dubc1-vip84.adobe.com
+127.0.0.1 wwis-dubc1-vip85.adobe.com
+127.0.0.1 wwis-dubc1-vip86.adobe.com
+127.0.0.1 wwis-dubc1-vip87.adobe.com
+127.0.0.1 wwis-dubc1-vip88.adobe.com
+127.0.0.1 wwis-dubc1-vip89.adobe.com
+127.0.0.1 wwis-dubc1-vip90.adobe.com
+127.0.0.1 wwis-dubc1-vip91.adobe.com
+127.0.0.1 wwis-dubc1-vip92.adobe.com
+127.0.0.1 wwis-dubc1-vip93.adobe.com
+127.0.0.1 wwis-dubc1-vip94.adobe.com
+127.0.0.1 wwis-dubc1-vip95.adobe.com
+127.0.0.1 wwis-dubc1-vip96.adobe.com
+127.0.0.1 wwis-dubc1-vip97.adobe.com
+127.0.0.1 wwis-dubc1-vip98.adobe.com
+127.0.0.1 wwis-dubc1-vip99.adobe.com
+127.0.0.1 www.adobeereg.com
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 genuine.adobe.com
+127.0.0.1 prod.adobegenuine.com
+127.0.0.1 assets.adobedtm.com
+127.0.0.1 4vzokhpsbs.adobe.io
+127.0.0.1 69tu0xswvq.adobe.io
+127.0.0.1 5zgzzv92gn.adobe.io
+127.0.0.1 dyzt55url8.adobe.io
+127.0.0.1 gw8gfjbs05.adobe.io
+127.0.0.1 18.207.85.246
+127.0.0.1 dxyeyf6ecy.adobe.io
+127.0.0.1 1hzopx6nz7.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 p13n.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 52.6.155.20
+127.0.0.1 52.10.49.85
+127.0.0.1 23.22.30.141
+127.0.0.1 34.215.42.13
+127.0.0.1 52.84.156.37
+127.0.0.1 65.8.207.109
+127.0.0.1 3.220.11.113
+127.0.0.1 3.221.72.231
+127.0.0.1 3.216.32.253
+127.0.0.1 3.208.248.199
+127.0.0.1 3.219.243.226
+127.0.0.1 13.227.103.57
+127.0.0.1 34.192.151.90
+127.0.0.1 34.237.241.83
+127.0.0.1 44.240.189.42
+127.0.0.1 52.20.222.155
+127.0.0.1 52.208.86.132
+127.0.0.1 54.208.86.132
+127.0.0.1 63.140.38.120
+127.0.0.1 63.140.38.160
+127.0.0.1 63.140.38.169
+127.0.0.1 63.140.38.219
+127.0.0.1 wip.adobe.com
+127.0.0.1 adobeereg.com
+127.0.0.1 18.228.243.121
+127.0.0.1 18.230.164.221
+127.0.0.1 54.156.135.114
+127.0.0.1 54.221.228.134
+127.0.0.1 54.224.241.105
+127.0.0.1 100.24.211.130
+127.0.0.1 162.247.242.20
+127.0.0.1 wip1.adobe.com
+127.0.0.1 wip2.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 wip4.adobe.com
+127.0.0.1 3dns.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 199.232.114.137
+127.0.0.1 bam.nr-data.net
+127.0.0.1 practivate.adobe
+127.0.0.1 ood.opsource.net
+127.0.0.1 crl.verisign.net
+127.0.0.1 3dns-1.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 genuine.adobe.com
+127.0.0.1 www.adobeereg.com
+127.0.0.1 www.wip.adobe.com
+127.0.0.1 www.wip1.adobe.com
+127.0.0.1 www.wip2.adobe.com
+127.0.0.1 www.wip3.adobe.com
+127.0.0.1 www.wip4.adobe.com
+127.0.0.1 ereg.wip.adobe.com
+127.0.0.1 ereg.wip.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 ereg.wip1.adobe.com
+127.0.0.1 ereg.wip2.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 ereg.wip4.adobe.com
+127.0.0.1 ereg.wip1.adobe.com
+127.0.0.1 ereg.wip2.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 ereg.wip4.adobe.com
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 practivate.adobe.ntp
+127.0.0.1 practivate.adobe.ipp
+127.0.0.1 practivate.adobe.com
+127.0.0.1 adobe-dns-1.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe-dns-4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 prod.adobegenuine.com
+127.0.0.1 practivate.adobe.newoa
+127.0.0.1 activate.wip.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 uds.licenses.adobe.com
+127.0.0.1 k.sni.global.fastly.net
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 activate.wip1.adobe.com
+127.0.0.1 activate.wip2.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate.wip4.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 workflow-ui-prod.licensingstack.com
+127.0.0.1 1b9khekel6.adobe.io
+127.0.0.1 adobe-dns-01.adobe.com
+127.0.0.1 adobe.demdex.net
+127.0.0.1 adobe.tt.omtrdc.net
+127.0.0.1 adobedc.demdex.net
+127.0.0.1 adobeid-na1.services.adobe.com
+127.0.0.1 assets.adobedtm.com
+127.0.0.1 auth-cloudfront.prod.ims.adobejanus.com
+127.0.0.1 auth.services.adobe.com
+127.0.0.1 cai-splunk-proxy.adobe.io
+127.0.0.1 cc-cdn.adobe.com
+127.0.0.1 cc-cdn.adobe.com.edgekey.net
+127.0.0.1 cclibraries-defaults-cdn.adobe.com
+127.0.0.1 cclibraries-defaults-cdn.adobe.com.edgekey.net
+127.0.0.1 cn-assets.adobedtm.com.edgekey.net
+127.0.0.1 crlog-crcn.adobe.com
+127.0.0.1 crs.cr.adobe.com
+127.0.0.1 edgeproxy-irl1.cloud.adobe.io
+127.0.0.1 ethos.ethos02-prod-irl1.ethos.adobe.net
+127.0.0.1 geo2.adobe.com
+127.0.0.1 lcs-cops.adobe.io
+127.0.0.1 lcs-robs.adobe.io
+127.0.0.1 pv2bqhsp36w.prod.cloud.adobe.io
+127.0.0.1 services.prod.ims.adobejanus.com
+127.0.0.1 ssl-delivery.adobe.com.edgekey.net
+127.0.0.1 sstats.adobe.com
+127.0.0.1 stls.adobe.com-cn.edgesuite.net
+127.0.0.1 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
+127.0.0.1 use-stls.adobe.com.edgesuite.net
+127.0.0.1 9ngulmtgqi.adobe.io
+ 
+ # Adobe wildcard
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 wwis-dubc1-vip*.adobe.com
+127.0.0.1 wwis-dubc1-vip*.adobe.de
+127.0.0.1 wwis-dubc1-vip*
+127.0.0.1 practivate.adobe.*
+ 
+ # Autodesk
+127.0.0.1 autodesk.fi 
+127.0.0.1 autodesk.de
+127.0.0.1 autodesk.es
+127.0.0.1 autodesk.ca
+127.0.0.1 autodesk.dk
+127.0.0.1 autodesk.pl
+127.0.0.1 ns1.autodesk.com
+127.0.0.1 ns2.autodesk.com
+127.0.0.1 ns3.autodesk.com
+127.0.0.1 ns4.autodesk.com
+127.0.0.1 ns5.autodesk.com
+127.0.0.1 126114-app1.autodesk.com
+127.0.0.1 94175-app1.autodesk.com
+127.0.0.1 94184-app2.autodesk.com
+127.0.0.1 96579-lbal1.autodesk.com
+127.0.0.1 acamp.autodesk.com
+127.0.0.1 adeskdi3.autodesk.com
+127.0.0.1 adeskdmzpdc.autodesk.com
+127.0.0.1 adeskgate.autodesk.com
+127.0.0.1 adesknews2.autodesk.com
+127.0.0.1 adeskout.autodesk.com
+127.0.0.1 adsknateur.autodesk.com
+127.0.0.1 amernetlog.autodesk.com
+127.0.0.1 app5.autodesk.com
+127.0.0.1 aprimo-relay1.autodesk.com
+127.0.0.1 aprimo-relay2.autodesk.com
+127.0.0.1 aprimo-relay3.autodesk.com
+127.0.0.1 aprimo-relay4.autodesk.com
+127.0.0.1 autosketch.autodesk.com
+127.0.0.1 blues.autodesk.com
+127.0.0.1 cbuanprd.autodesk.com
+127.0.0.1 cbuanprhcllb.autodesk.com
+127.0.0.1 cbuanqa2lb.autodesk.com
+127.0.0.1 ci3dwsdev-svc.autodesk.com
+127.0.0.1 ci3dwsprd-svc.autodesk.com
+127.0.0.1 ci3dwsstg-svc.autodesk.com
+127.0.0.1 community.autodesk.com
+127.0.0.1 cut.autodesk.com
+127.0.0.1 cvsprd01.autodesk.com
+127.0.0.1 discussion.autodesk.com
+127.0.0.1 eur.autodesk.com
+127.0.0.1 extcidev.autodesk.com
+127.0.0.1 extciqa.autodesk.com
+127.0.0.1 extupg.autodesk.com
+127.0.0.1 ftp-users.autodesk.com
+127.0.0.1 ftp2b.autodesk.com
+127.0.0.1 gisdmzpdc.autodesk.com
+127.0.0.1 hqaribasrf04.autodesk.com
+127.0.0.1 hqmgwww01.autodesk.com
+127.0.0.1 hqmgwww04.autodesk.com
+127.0.0.1 hqmobileweb01.autodesk.com
+127.0.0.1 hqprxsrftrn.autodesk.com
+127.0.0.1 hqpsweb01.autodesk.com
+127.0.0.1 hubdev-svc.autodesk.com
+127.0.0.1 hubprd-svc.autodesk.com
+127.0.0.1 hubstg-svc.autodesk.com
+127.0.0.1 itappprd01-svc.autodesk.com
+127.0.0.1 itappprd02-svc.autodesk.com
+127.0.0.1 its.autodesk.com
+127.0.0.1 jdevextv-new.autodesk.com
+127.0.0.1 jp.autodesk.com
+127.0.0.1 jstgextv-new.autodesk.com
+127.0.0.1 jstgintv-new.autodesk.com
+127.0.0.1 lbsvzw.autodesk.com
+127.0.0.1 lbsvzw1.autodesk.com
+127.0.0.1 lbsvzw2.autodesk.com
+127.0.0.1 library.autodesk.com
+127.0.0.1 liveupdate.autodesk.com
+127.0.0.1 locationservices.autodesk.com
+127.0.0.1 lsctsol04.autodesk.com
+127.0.0.1 mail-relay.autodesk.com
+127.0.0.1 mneprdext-svc.autodesk.com
+127.0.0.1 mut.autodesk.com
+127.0.0.1 nbugma-dmz.autodesk.com
+127.0.0.1 nut.autodesk.com
+127.0.0.1 otw-new.autodesk.com
+127.0.0.1 otwdownloads.autodesk.com
+127.0.0.1 partnercenter.autodesk.com
+127.0.0.1 partnerproducts.autodesk.com
+127.0.0.1 paste.autodesk.com
+127.0.0.1 pedidrq.autodesk.com
+127.0.0.1 pediqrx.autodesk.com
+127.0.0.1 petars1.autodesk.com
+127.0.0.1 petcp11ia-2nat.autodesk.com
+127.0.0.1 petcr12ihsrp2.autodesk.com
+127.0.0.1 phxgciv.autodesk.com
+127.0.0.1 phxgciv_dr.autodesk.com
+127.0.0.1 planix3d.autodesk.com
+127.0.0.1 pointa.autodesk.com
+127.0.0.1 register.autodesk.com
+127.0.0.1 registerallied-pr.autodesk.com
+127.0.0.1 registeronce.autodesk.com
+127.0.0.1 salestraining.autodesk.com
+127.0.0.1 searchnews.autodesk.com
+127.0.0.1 shop.autodesk.com
+127.0.0.1 spamster-bulk.autodesk.com
+127.0.0.1 sswwwp.autodesk.com
+127.0.0.1 trialdownload.autodesk.com
+127.0.0.1 usa.autodesk.com
+127.0.0.1 uspetcr12ie_198.autodesk.com
+127.0.0.1 uspetcr12if.autodesk.com
+127.0.0.1 uspetcr12if_198.autodesk.com
+127.0.0.1 uspetcrs12ia_ib_vlan500_2_hsrp.autodesk.com
+127.0.0.1 uspetcrs12ia_vlan500_2.autodesk.com
+127.0.0.1 uspetcrs12ib_vlan500_2.autodesk.com
+127.0.0.1 uspetne06ia_ib_untrust_dip7.autodesk.com
+127.0.0.1 usrelay.autodesk.com
+127.0.0.1 ussclout1.autodesk.com
+127.0.0.1 vzwlpsrel.autodesk.com
+127.0.0.1 vzwlpstst.autodesk.com
+127.0.0.1 web.autodesk.com
+127.0.0.1 webservices.autodesk.com
+127.0.0.1 wormhole.autodesk.com
+127.0.0.1 www3.autodesk.com
+ #www.autodesk.com
+ #autodesk.com
+ 
+ # ACDSee
+127.0.0.1 acdid.acdsystems.com
+ 
+ # Acronis
+127.0.0.1 activation.acronis.com
+127.0.0.1 web-api-tih.acronis.com
+127.0.0.1 web-api-tie.acronis.com
+127.0.0.1 web-api-vmp.acronis.com
+127.0.0.1 cloud-rs-us2-acronis.com
+127.0.0.1 cloud-fes-us2-acronis.com
+127.0.0.1 rpc.acronis.com
+ 
+ # Ashampoo
+127.0.0.1 licenses.ashampoo.com
+ 
+ # Alcohol
+127.0.0.1 serial.alcohol-soft.com
+127.0.0.1 trial.alcohol-soft.com
+ 
+ # Avast
+127.0.0.1 ns2.avast.com
+127.0.0.1 pns.avast.com
+ #avast.com
+ 
+ # Bandicam
+ #ssl.bandisoft.com
+ #cert.bandicam.com
+ #bandicam.com
+ 
+ # BartelsMedia ShareMouse
+127.0.0.1 bartelsmedia.com
+127.0.0.1 www.bartelsmedia.com
+ 
+ # BitSum and Process Lasso
+127.0.0.1 activate.bitsum.com
+127.0.0.1 bitsumactivationserver.com
+127.0.0.1 www.bitsumactivationserver.com
+ 
+ # BlueSoleil
+127.0.0.1 license.bluesoleil.com
+127.0.0.1 license2.bluesoleil.com
+127.0.0.1 license3.bluesoleil.com
+ #www.bluesoleil.com
+ #bluesoleil.com
+ 
+ # Capture One
+127.0.0.1 activation.phaseone.com
+ 
+ # Corel
+127.0.0.1 apps.corel.com
+127.0.0.1 product.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 sws.corel.com
+127.0.0.1 dam.corel.com
+127.0.0.1 deploy.akamaitechnologies.com
+127.0.0.1 compute-1.amazonaws.com
+127.0.0.1 dev1.ipm.corel.public.corel.net
+ 
+ # Connectify Hotspot
+127.0.0.1 activate.connectify.me
+127.0.0.1 updates.connectify.me
+127.0.0.1 d.connectify.me
+127.0.0.1 d1.connectify.me
+127.0.0.1 d2.connectify.me
+127.0.0.1 d3.connectify.me
+127.0.0.1 b.connectify.me
+127.0.0.1 bc.connectify.me
+127.0.0.1 data.connectify.me
+127.0.0.1 news.connectify.me
+ 
+ # ChrisPC
+ #chris-pc.com
+ 
+ # Cyberlink
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 cap.cyberlink.com
+ 
+ # DAEMON Tools
+127.0.0.1 secure.disc-soft.com
+ 
+ # CuteFTP
+127.0.0.1 dbregistration.cuteftp.com
+ 
+ # EaseUS
+127.0.0.1 activation.easeus.com
+127.0.0.1 track.easeus.com
+ 
+ # Eltima
+127.0.0.1 activate.eltima.com
+ 
+ # Folder Lock
+127.0.0.1 password-protect-folders.net
+ 
+ # Deep Freeze
+127.0.0.1 upd.faronicslabs.com
+ 
+ # HDD Regenerator
+127.0.0.1 dposoft.net
+ 
+ # HotSpot Shield
+ #anchorfree.net
+ #anchorfree.us
+ #rss2search.com
+ #delivery.anchorfree.us
+127.0.0.1 techbrowsing.com
+127.0.0.1 box.anchorfree.net
+ #mefeedia.com
+127.0.0.1 a433.com
+ #hsselite.com
+ 
+ # Internet Download Manager
+127.0.0.1 internetdownloadmanager.com
+127.0.0.1 mirror.internetdownloadmanager.com
+127.0.0.1 mirror2.internetdownloadmanager.com
+127.0.0.1 mirror3.internetdownloadmanager.com
+127.0.0.1 registeridm.com
+127.0.0.1 secure.internetdownloadmanager.com
+127.0.0.1 secure.registeridm.com
+127.0.0.1 star.tonec.com
+127.0.0.1 tonec.com
+127.0.0.1 www.internetdownloadmanager.com
+127.0.0.1 www.mirror.internetdownloadmanager.com
+127.0.0.1 www.mirror2.internetdownloadmanager.com
+127.0.0.1 www.mirror3.internetdownloadmanager.com
+127.0.0.1 www.registeridm.com
+127.0.0.1 www.secure.internetdownloadmanager.com
+127.0.0.1 www.tonec.com
+ 
+ # IObit
+127.0.0.1 asc55.iobit.com
+127.0.0.1 idb.iobit.com
+127.0.0.1 is360.iobit.com
+127.0.0.1 asc.iobit.com
+127.0.0.1 pf.iobit.com
+127.0.0.1 iunins.iobit.com
+127.0.0.1 sd.iobit.com
+ #iobit.com
+ 
+ # IsoBuster
+127.0.0.1 isobuster.net
+127.0.0.1 cdrecovery.net
+127.0.0.1 isobuster.com
+127.0.0.1 smart-projects.net
+127.0.0.1 pvh.smart-projects.biz
+ 
+ # iSkysoft
+127.0.0.1 cbs.iskysoft.com
+ 
+ # JetBrains IDE
+ #jetbrains.com
+ #www.jetbrains.com
+ #www-weighted.jetbrains.com
+ #account.jetbrains.com
+ 
+ # Lumion3D
+127.0.0.1 backup.lumion3d.com
+127.0.0.1 backup.lumion3d.net
+127.0.0.1 license.lumion3d.com
+127.0.0.1 license.lumion3d.net
+127.0.0.1 activate.lumion.net
+127.0.0.1 license.lumiontech.net
+ 
+ # MacDrive
+127.0.0.1 act2.mediafour.com
+ 
+ # MalwareBytes
+127.0.0.1 sirius.mwbsys.com
+127.0.0.1 keystone.mwbsys.com
+127.0.0.1 data.service.malwarebytes.org
+127.0.0.1 telemetry.malwarebytes.com
+127.0.0.1 skipittok.com
+ 
+ # MiniTool Partition Wizard
+127.0.0.1 pas2.partitionwizard.com
+127.0.0.1 pas2.minitool.com
+127.0.0.1 pas2.eofsoft.com
+127.0.0.1 tracking.minitool.com
+ #partitionwizard.com
+ #www.partitionwizard.com
+ 
+ # Newsoftwares USB Block
+127.0.0.1 newsoftwares.net
+ 
+ # Nikon CaptureNX
+127.0.0.1 sams.nikonimaging.com
+ 
+ # NCH Software 
+127.0.0.1 secure.nch.com.au
+ 
+ # Piriform
+127.0.0.1 license.piriform.com
+127.0.0.1 secure.piriform.com
+127.0.0.1 ccleaner.com
+127.0.0.1 www.ccleaner.com
+ 
+ # Red Gate (e.g. .NET Reflector)
+127.0.0.1 licensing.red-gate.com
+ 
+ # Reallusion
+127.0.0.1 widgetcast.reallusion.com
+127.0.0.1 da.reallusion.com
+127.0.0.1 ctifiles2.reallusion.com
+ 
+ # Rhinoceros 3D 
+127.0.0.1 api.mcneel.com
+ 
+ # SmartAssembly
+127.0.0.1 sawebservice.red-gate.com
+ 
+ # Systweak
+127.0.0.1 updateservice1.systweak.com
+127.0.0.1 systemspeedup.systweak.com
+ #systweak.com
+ 
+ # Sublime Text
+127.0.0.1 license.sublimehq.com
+ 
+ # SUPERAntiSpyware
+127.0.0.1 license.superantispyware.com
+ #superantispyware.com
+ 
+ # Tableau Desktop
+127.0.0.1 licensing.tableausoftware.com
+ 
+ # TeamSpeak
+127.0.0.1 accounting.teamspeak.com
+127.0.0.1 backupaccounting.teamspeak.com
+127.0.0.1 ipcheck.teamspeak.com
+ 
+ # TotalFinder
+127.0.0.1 binaryage-leechgate.herokuapp.com
+127.0.0.1 updates-s3.binaryage.com
+ 
+ # TechSmith Camtasia Studio
+127.0.0.1 activation.cloud.techsmith.com
+127.0.0.1 oscount.techsmith.com
+127.0.0.1 updater.techsmith.com
+127.0.0.1 camtasiatudi.techsmith.com
+127.0.0.1 tsccloud.cloudapp.net
+127.0.0.1 assets.cloud.techsmith.com
+ #techsmith.com
+ 
+ # VideoMakerFX
+127.0.0.1 auth7.videomakerfx.com
+ 
+ # Wondershare
+127.0.0.1 cbs.wondershare.com
+127.0.0.1 platform.wondershare.com
+127.0.0.1 macplatform.wondershare.com
