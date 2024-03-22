@@ -316,22 +316,22 @@ a433.com
 #hsselite.com
 
 # Internet Download Manager
-internetdownloadmanager.com
-mirror.internetdownloadmanager.com
-mirror2.internetdownloadmanager.com
-mirror3.internetdownloadmanager.com
-registeridm.com
-secure.internetdownloadmanager.com
-secure.registeridm.com
-star.tonec.com
-tonec.com
-www.internetdownloadmanager.com
-www.mirror.internetdownloadmanager.com
-www.mirror2.internetdownloadmanager.com
-www.mirror3.internetdownloadmanager.com
-www.registeridm.com
-www.secure.internetdownloadmanager.com
-www.tonec.com
+# internetdownloadmanager.com
+# mirror.internetdownloadmanager.com
+# mirror2.internetdownloadmanager.com
+# mirror3.internetdownloadmanager.com
+# registeridm.com
+# secure.internetdownloadmanager.com
+# secure.registeridm.com
+# star.tonec.com
+# tonec.com
+# www.internetdownloadmanager.com
+# www.mirror.internetdownloadmanager.com
+# www.mirror2.internetdownloadmanager.com
+# www.mirror3.internetdownloadmanager.com
+# www.registeridm.com
+# www.secure.internetdownloadmanager.com
+# www.tonec.com
 
 # IObit
 asc55.iobit.com
